@@ -1,0 +1,15 @@
+{
+  "graph_api_version": "v23.0",
+  "allowed_status": ["PAUSED"],
+  "max_daily_budget_minor_units": 2000,
+  "max_lifetime_budget_minor_units": 30000,
+  "currency": "EUR",
+  "allowed_objectives": [
+    "OUTCOME_AWARENESS",
+    "OUTCOME_TRAFFIC",
+    "OUTCOME_ENGAGEMENT",
+    "OUTCOME_LEADS"
+  ],
+  "require_special_ad_categories_field": true,
+  "notes": "Budgets are in minor units (cents). 2000 = EUR 20/day. Raise only by editing this file yourself."
+}

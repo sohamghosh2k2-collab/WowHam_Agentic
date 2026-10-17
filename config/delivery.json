@@ -1,0 +1,8 @@
+{
+  "email_to": "soham.coe.iitd@gmail.com",
+  "subject_prefix": "Wowham Daily Brief",
+  "timezone": "Europe/Berlin",
+  "send_time_local": "10:00",
+  "max_stories_per_topic": 5,
+  "reading_time_minutes": 5
+}

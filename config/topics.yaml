@@ -1,0 +1,39 @@
+# Topics tracked by the daily brief. Edit freely — the agent rebuilds its
+# boolean queries from this file every run.
+#
+# Fields:
+#   name         short label used in the report
+#   intent       one sentence: what you care about and why
+#   must         concepts that MUST appear (AND'ed groups; synonyms inside a group are OR'ed)
+#   exclude      noise to drop (NOT)
+#   regions      optional focus (ISO country codes or "global")
+#   priority     high | medium | low  (controls space in the brief)
+
+topics:
+  - name: Quantum computing commercialisation
+    intent: Funding, partnerships and real deployments, not lab hype.
+    must:
+      - ["quantum computing", "quantum computer", "qubit", "quantum processor"]
+      - ["funding", "raises", "Series", "contract", "partnership", "deployment", "acquisition"]
+    exclude: ["quantum of solace", "crypto price"]
+    regions: [global]
+    priority: high
+
+  - name: AI chips & compute infrastructure
+    intent: Supply, export controls, new accelerators, datacenter capex.
+    must:
+      - ["AI chip", "GPU", "accelerator", "semiconductor", "datacenter", "data center"]
+      - ["export control", "capex", "launch", "fab", "supply", "investment"]
+    exclude: ["gaming review", "deal of the day"]
+    regions: [global]
+    priority: high
+
+  - name: European deep-tech funding
+    intent: Rounds of €5M+ in deep tech across Europe.
+    must:
+      - ["startup", "scale-up", "spinout", "spin-off"]
+      - ["deep tech", "deeptech", "fusion", "quantum", "robotics", "biotech", "photonics", "new materials", "space"]
+      - ["raises", "funding round", "Series A", "Series B", "Series C", "seed round"]
+    exclude: []
+    regions: [EU, GB, CH, NO]
+    priority: medium

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "scale": "Each dimension is scored 1-5. Weights sum to 1.0. Feedback and outcome tracking may adjust weights; every change is logged in memory/learned_rules.md.",
+  "dimensions": {
+    "team":                {"weight": 0.18, "question": "Do founders combine deep technical credibility with commercial/operational experience?"},
+    "technology_moat":     {"weight": 0.15, "question": "Is the tech defensible (IP, know-how, data, hard-to-replicate process)?"},
+    "technical_risk":      {"weight": 0.12, "question": "How far along is it (TRL)? 5 = proven in operating conditions, 1 = lab concept."},
+    "market":              {"weight": 0.15, "question": "Is the reachable market large, and is the timing right (cost curves, regulation, demand pull)?"},
+    "traction":            {"weight": 0.12, "question": "Paying pilots, LOIs, revenue, government contracts, design wins."},
+    "capital_efficiency":  {"weight": 0.10, "question": "Capital needed to reach the next value inflection vs. what is raised. 5 = efficient."},
+    "funding_quality":     {"weight": 0.08, "question": "Specialist/strategic investors, grant support, follow-on behaviour."},
+    "competition":         {"weight": 0.05, "question": "Position vs. incumbents and well-funded peers. 5 = clear lead."},
+    "path_to_market":      {"weight": 0.05, "question": "Regulatory, certification, manufacturing and channel path clarity."}
+  },
+  "verdict_bands": [
+    {"min": 4.0, "label": "Strong - prioritise"},
+    {"min": 3.3, "label": "Promising - monitor closely"},
+    {"min": 2.5, "label": "Early / unproven - watchlist"},
+    {"min": 0.0, "label": "Pass for now"}
+  ]
+}

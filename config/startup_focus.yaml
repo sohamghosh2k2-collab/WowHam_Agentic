@@ -1,0 +1,27 @@
+# What the startup-scout looks for. Edit to steer sourcing.
+sectors:
+  - quantum
+  - AI hardware & photonics
+  - fusion & advanced energy
+  - batteries & energy storage
+  - robotics & autonomy
+  - space tech
+  - synthetic biology & biotech platforms
+  - advanced materials & semiconductors
+  - climate / carbon removal
+stages: [pre-seed, seed, series-a, series-b, series-c, growth]
+regions: [global]          # e.g. [EU, US, IN, IL]
+min_round_usd: 1000000
+
+# Public sources the scout may use (respect robots.txt and site terms)
+sources:
+  funding_news: [techcrunch.com, sifted.eu, crunchbase.com/news, eu-startups.com, tech.eu, inc42.com, yourstory.com]
+  accelerators: [ycombinator.com/companies, joinef.com, techstars.com, hello-tomorrow.org, creativedestructionlab.com, intel-ignite]
+  research_signals: [arxiv.org, patents.google.com, github.com]
+  government: [sbir.gov, cordis.europa.eu, eic.ec.europa.eu]
+  hiring_signals: [company careers pages, linkedin public job posts]
+
+# Optional paid APIs (used only if the env var exists)
+optional_apis:
+  CRUNCHBASE_API_KEY: crunchbase
+  DEALROOM_API_KEY: dealroom

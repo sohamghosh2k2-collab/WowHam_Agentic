@@ -1,0 +1,35 @@
+# Benchmark sources. The report-critic compares each brief against what these
+# outlets covered in the same window. Tier 1 = wire/financial press of record.
+# Add or remove outlets to match your industry.
+
+tiers:
+  tier1_wire_and_financial:
+    - reuters.com
+    - apnews.com
+    - bloomberg.com
+    - ft.com
+    - wsj.com
+    - economist.com
+    - nikkei.com
+  tier2_tech_and_industry:
+    - techcrunch.com
+    - theinformation.com
+    - sifted.eu
+    - technologyreview.com
+    - nature.com
+    - science.org
+    - spectrum.ieee.org
+    - semianalysis.com
+    - eetimes.com
+  tier3_funding_and_markets:
+    - crunchbase.com/news
+    - dealroom.co
+    - pitchbook.com/news
+    - cbinsights.com/research
+
+# Domains never used as a sole source (content farms, press-release mirrors).
+low_trust:
+  - prnewswire.com      # fine as primary announcement, never as sole confirmation
+  - businesswire.com
+  - globenewswire.com
+  - medium.com
