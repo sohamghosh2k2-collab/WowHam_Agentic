@@ -1,0 +1,8 @@
+[
+ {"topic":"Quantum computing commercialisation","dialect":"web","query":"(\"quantum computing\" OR \"quantum computer\" OR qubit) (raises OR funding OR contract OR partnership OR acquisition) October 2026","hits":9,"kept":4},
+ {"topic":"Quantum computing commercialisation","dialect":"web-trusted","query":"quantum computing funding contract October 2026 site:(bloomberg.com|techcrunch.com|technologyreview.com|sifted.eu|nature.com|spectrum.ieee.org)","hits":10,"kept":0},
+ {"topic":"AI chips & compute infrastructure","dialect":"web","query":"(\"AI chip\" OR GPU OR datacenter) (\"export control\" OR capex OR launch OR investment) October 16 2026","hits":10,"kept":3},
+ {"topic":"AI chips & compute infrastructure","dialect":"web-trusted","query":"AI chips export controls datacenter October 2026 site:(bloomberg.com|techcrunch.com|technologyreview.com|spectrum.ieee.org)","hits":10,"kept":2},
+ {"topic":"European deep-tech funding","dialect":"web","query":"European (startup OR spinout) (\"deep tech\" OR quantum OR fusion OR robotics OR biotech OR photonics OR space) (raises OR \"Series A\" OR \"Series B\" OR seed) October 2026","hits":9,"kept":2},
+ {"topic":"European deep-tech funding","dialect":"web-trusted","query":"European deeptech startup funding round October 2026 site:(sifted.eu|techcrunch.com|bloomberg.com|tech.eu)","hits":10,"kept":2}
+]

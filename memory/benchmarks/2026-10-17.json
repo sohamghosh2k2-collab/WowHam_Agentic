@@ -1,0 +1,44 @@
+{
+  "recall_weighted": 0.846,
+  "precision_trusted": 0.286,
+  "brief_items": 7,
+  "reference_items": 5,
+  "matched": [
+    {
+      "reference": "China plans AI export curbs to exert control over key tech",
+      "brief": "China proposes export controls on 23 AI technologies including models, agents, chip designs and computing clusters",
+      "similarity": 1.0
+    },
+    {
+      "reference": "Taiwan to curb AI chip exports to China as part of US trade deal",
+      "brief": "Taiwan to curb AI chip and server exports to China, making violations a criminal offense, as part of US trade deal",
+      "similarity": 1.0
+    },
+    {
+      "reference": "Quantum startup Oratomic valued at $5.4 billion after new round",
+      "brief": "Oratomic raises $475M Series B at $5.4B valuation for neutral-atom quantum computers",
+      "similarity": 1.0
+    },
+    {
+      "reference": "Roblox CEO, Singapore government fund back Universal Quantum round",
+      "brief": "Universal Quantum raises over $100M Series A co-led by DCVC and Firgun Ventures",
+      "similarity": 1.0
+    }
+  ],
+  "missed": [
+    {
+      "topic": "European deep-tech funding",
+      "title": "Alphabet's Isomorphic Labs in funding talks for at least $40 billion value",
+      "outlet": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-08/alphabet-s-isomorphic-labs-in-funding-talks-for-at-least-40-billion-value",
+      "importance": 2
+    }
+  ],
+  "judged": {
+    "accuracy": 4,
+    "insight": 3,
+    "concision": 4,
+    "feedback_fit": 4
+  },
+  "overall": 3.53
+}
