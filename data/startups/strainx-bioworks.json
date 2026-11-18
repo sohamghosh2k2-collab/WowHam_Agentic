@@ -1,0 +1,38 @@
+{
+  "id": "strainx-bioworks",
+  "name": "StrainX Bioworks",
+  "website": null,
+  "hq_country": "IN",
+  "sector": "synthetic biology & biotech platforms",
+  "subsector": "precision fermentation",
+  "stage": "seed",
+  "founded": null,
+  "one_liner": "India-based precision fermentation / synthetic biology company emerging from stealth with seed funding.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-05-01",
+      "round": "Seed",
+      "amount_usd": 13000000,
+      "lead": "Prime Venture Partners and Leo Capital (co-leads)",
+      "investors": [
+        "Prime Venture Partners",
+        "Leo Capital"
+      ],
+      "source": "https://india.entrepreneur.com/business-news/synthetic-biology-startup-strainx-bioworks-raises-usd-13-mn"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": null
+  },
+  "sources": [
+    "https://india.entrepreneur.com/business-news/synthetic-biology-startup-strainx-bioworks-raises-usd-13-mn"
+  ],
+  "last_updated": "2026-11-18"
+}

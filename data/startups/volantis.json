@@ -1,0 +1,43 @@
+{
+  "id": "volantis",
+  "name": "Volantis",
+  "website": null,
+  "hq_country": "US",
+  "sector": "AI hardware & photonics",
+  "subsector": "photonic memory/interconnect for AI inference",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "San Francisco startup building a photonic memory fabric to attack the AI inference 'memory wall'.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-10-01",
+      "round": "Series A",
+      "amount_usd": 88000000,
+      "lead": "Lachy Groom / Abstract Ventures (co-lead)",
+      "investors": [
+        "Lachy Groom",
+        "Abstract Ventures",
+        "John Doerr",
+        "VXI Capital",
+        "Triatomic",
+        "Susa"
+      ],
+      "source": "https://unite.ai/volantis-raises-88m-series-a-to-build-photonic-ai-inference-system"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Product (A-1 inference system) not yet shipping; performance claims not independently verified per fourweekmba.com analysis. Emerged from stealth June 2025 with $9M seed; total funding reported ~$97M."
+  },
+  "sources": [
+    "https://unite.ai/volantis-raises-88m-series-a-to-build-photonic-ai-inference-system",
+    "https://fourweekmba.com/ai-volantis-88m-series-a-inference-memory-wall/"
+  ],
+  "last_updated": "2026-11-18"
+}

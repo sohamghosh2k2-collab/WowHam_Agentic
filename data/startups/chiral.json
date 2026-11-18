@@ -1,0 +1,43 @@
+{
+  "id": "chiral",
+  "name": "Chiral",
+  "website": null,
+  "hq_country": "CH",
+  "sector": "advanced materials & semiconductors",
+  "subsector": "post-silicon nanomaterials for advanced electronics",
+  "stage": "seed",
+  "founded": 2023,
+  "one_liner": "ETH Zurich / Empa spin-off developing nanomaterials to push computing beyond Moore's Law limits of silicon.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-02-06",
+      "round": "Seed",
+      "amount_usd": 12000000,
+      "lead": "Crane Venture Partners",
+      "investors": [
+        "Crane Venture Partners",
+        "Quantonation",
+        "HCVC",
+        "Founderful"
+      ],
+      "source": "https://www.quantonation.com/2026/02/06/chiral-raises-12m/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [
+      "Innosuisse (Swiss public innovation funding)"
+    ],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Research-to-company signal: founded 2023 as an ETH Zurich and Empa spin-off."
+  },
+  "sources": [
+    "https://www.quantonation.com/2026/02/06/chiral-raises-12m/",
+    "https://www.venturekick.ch/Chiral-raises-USD-12M-to-scale-postsilicon-computing-beyond-Moores-Law"
+  ],
+  "last_updated": "2026-11-18"
+}

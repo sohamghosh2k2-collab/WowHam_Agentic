@@ -1,0 +1,40 @@
+{
+  "id": "discovered-materials",
+  "name": "Discovered Materials",
+  "website": null,
+  "hq_country": "US",
+  "sector": "advanced materials & semiconductors",
+  "subsector": "AI-driven semiconductor materials discovery",
+  "stage": "seed",
+  "founded": null,
+  "one_liner": "San Francisco startup using AI agents to discover new semiconductor materials, starting with thermally conductive dielectrics for 3D chip stacks.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-08-31",
+      "round": "Seed",
+      "amount_usd": 9000000,
+      "lead": "Lightspeed India Partners",
+      "investors": [
+        "Lightspeed India Partners",
+        "Y Combinator",
+        "Peak XV Partners"
+      ],
+      "source": "https://evertiq.com/news/2026-08-31-us-startup-discovered-materials-closes-9-million-seed-round"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Y Combinator-backed."
+  },
+  "sources": [
+    "https://evertiq.com/news/2026-08-31-us-startup-discovered-materials-closes-9-million-seed-round",
+    "https://www.hpcwire.com/off-the-wire/discovered-materials-raises-9m-to-advance-ai-driven-semiconductor-materials-discovery/"
+  ],
+  "last_updated": "2026-11-18"
+}

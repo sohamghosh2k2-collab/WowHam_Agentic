@@ -1,0 +1,44 @@
+{
+  "id": "oxford-quantum-circuits",
+  "name": "Oxford Quantum Circuits",
+  "website": null,
+  "hq_country": "GB",
+  "sector": "quantum",
+  "subsector": "superconducting quantum computing",
+  "stage": "series-c",
+  "founded": null,
+  "one_liner": "UK superconducting-qubit quantum computer maker scaling toward a 200-logical-qubit 'TITAN' system by 2028.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-06-03",
+      "round": "Series C",
+      "amount_usd": 350000000,
+      "lead": "Bullhound Capital",
+      "investors": [
+        "Bullhound Capital",
+        "British Business Bank",
+        "Oxford Science Enterprises",
+        "SBI",
+        "Chevron Technology Ventures"
+      ],
+      "source": "https://thequantuminsider.com/2026/06/03/oqc-raises-260-million-in-series-c/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [
+      "British Business Bank committed GBP100M of the round"
+    ],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Reported as Europe's largest-ever private quantum computing funding round; GBP260M headline figure, ~$350M reported by most outlets (some outlets report $330-348M)."
+  },
+  "sources": [
+    "https://thequantuminsider.com/2026/06/03/oqc-raises-260-million-in-series-c/",
+    "https://oodaloop.com/briefs/technology/oxford-quantum-circuits-raises-blockbuster-350m-series-c/"
+  ],
+  "last_updated": "2026-11-18"
+}

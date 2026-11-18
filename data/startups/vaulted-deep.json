@@ -1,0 +1,35 @@
+{
+  "id": "vaulted-deep",
+  "name": "Vaulted Deep",
+  "website": null,
+  "hq_country": "US",
+  "sector": "climate / carbon removal",
+  "subsector": "bio-waste carbon dioxide removal via deep well injection",
+  "stage": null,
+  "founded": null,
+  "one_liner": "Injects dewatered organic waste deep underground for durable carbon removal, backed by Frontier Climate offtake agreements.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026",
+      "round": "Debt financing",
+      "amount_usd": 35000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://www.wastedive.com/news/vaulted-deep-gets-35m-debt-deal-to-expand-bio-waste-cdr-frontier-climate/830993/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "This $35M is a debt facility, not a priced equity round (stage left null). Company has also raised $48M in equity funding to date per same source; backed by long-term carbon removal and waste-servicing agreements via Frontier Climate."
+  },
+  "sources": [
+    "https://www.wastedive.com/news/vaulted-deep-gets-35m-debt-deal-to-expand-bio-waste-cdr-frontier-climate/830993/"
+  ],
+  "last_updated": "2026-11-18"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ore-energy",
+  "name": "Ore Energy",
+  "website": null,
+  "hq_country": "NL",
+  "sector": "batteries & energy storage",
+  "subsector": "iron-air long-duration / multi-day storage",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Dutch startup scaling iron-air batteries for multi-day, long-duration energy storage.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-08-01",
+      "round": "Series A",
+      "amount_usd": 43000000,
+      "lead": null,
+      "investors": [
+        "Plural",
+        "HV"
+      ],
+      "source": "https://www.energy-storage.news/european-multi-day-energy-storage-startup-ore-energy-raises-us43-million-in-series-a/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Total funding to date reported ~$61M."
+  },
+  "sources": [
+    "https://www.energy-storage.news/european-multi-day-energy-storage-startup-ore-energy-raises-us43-million-in-series-a/"
+  ],
+  "last_updated": "2026-11-18"
+}

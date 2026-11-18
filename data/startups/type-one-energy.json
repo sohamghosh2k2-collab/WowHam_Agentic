@@ -1,0 +1,35 @@
+{
+  "id": "type-one-energy",
+  "name": "Type One Energy",
+  "website": null,
+  "hq_country": "US",
+  "sector": "fusion & advanced energy",
+  "subsector": "modular stellarator fusion for data-center power",
+  "stage": null,
+  "founded": null,
+  "one_liner": "Developing modular stellarator fusion reactors, pitched partly at powering data centers.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-02-01",
+      "round": null,
+      "amount_usd": 87000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://app.dealroom.co/news/feed/type-one-energy-raises-87m-to-develop-fusion-reactors-for-data-centres"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Round stage not specified in source; brings total venture investment to >$160M per dealroom.co."
+  },
+  "sources": [
+    "https://app.dealroom.co/news/feed/type-one-energy-raises-87m-to-develop-fusion-reactors-for-data-centres"
+  ],
+  "last_updated": "2026-11-18"
+}

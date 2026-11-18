@@ -1,0 +1,41 @@
+{
+  "id": "atom-computing",
+  "name": "Atom Computing",
+  "website": null,
+  "hq_country": "US",
+  "sector": "quantum",
+  "subsector": "neutral-atom qubit hardware",
+  "stage": "series-c",
+  "founded": null,
+  "one_liner": "Builds fault-tolerant neutral-atom quantum computers.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-06-16",
+      "round": "Series C",
+      "amount_usd": 100000000,
+      "lead": "Third Point Ventures",
+      "investors": [
+        "Third Point Ventures",
+        "DCVC",
+        "Cisco Investments"
+      ],
+      "source": "https://dealroom.co/news/134896-atom-computing-raises-100m-series-c-for-fault-tolerant-neutral-atom-quan/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [
+      "Signed letter of intent with US Dept. of Commerce for additional $100M (per dealroom.co)"
+    ],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Total funding to date reported >$300M including the Commerce Dept LOI."
+  },
+  "sources": [
+    "https://dealroom.co/news/134896-atom-computing-raises-100m-series-c-for-fault-tolerant-neutral-atom-quan/"
+  ],
+  "last_updated": "2026-11-18"
+}

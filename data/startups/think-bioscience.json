@@ -1,0 +1,43 @@
+{
+  "id": "think-bioscience",
+  "name": "Think Bioscience",
+  "website": null,
+  "hq_country": "US",
+  "sector": "synthetic biology & biotech platforms",
+  "subsector": "synthetic-biology-enabled small-molecule drug discovery",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Boulder, Colorado biotech using synthetic biology to find druggable pockets on long-'undruggable' protein targets.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-01-20",
+      "round": "Series A",
+      "amount_usd": 55000000,
+      "lead": "Regeneron Ventures, Innovation Endeavors, Janus Henderson Investors (co-leads)",
+      "investors": [
+        "Regeneron Ventures",
+        "Innovation Endeavors",
+        "Janus Henderson Investors",
+        "AV8 Ventures",
+        "CU Innovations",
+        "Buff Gold Ventures"
+      ],
+      "source": "https://www.synbiobeta.com/read/think-bioscience-secures-55m-in-oversubscribed-series-a-funding"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Oversubscribed round; total capital raised reported at $78.25M by one outlet. Described by one source as a CU Boulder spinout; lead program targets Noonan-syndrome-causing mutations."
+  },
+  "sources": [
+    "https://www.synbiobeta.com/read/think-bioscience-secures-55m-in-oversubscribed-series-a-funding",
+    "https://www.biospace.com/press-releases/think-bioscience-raises-55m-in-oversubscribed-series-a"
+  ],
+  "last_updated": "2026-11-18"
+}

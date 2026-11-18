@@ -1,0 +1,36 @@
+{
+  "id": "portal-space-systems",
+  "name": "Portal Space Systems",
+  "website": null,
+  "hq_country": "US",
+  "sector": "space tech",
+  "subsector": "rapidly maneuverable spacecraft / in-space mobility",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Building rapidly maneuverable spacecraft for in-space mobility and servicing, now shifting into production.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-04-09",
+      "round": "Series A",
+      "amount_usd": 50000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://www.satellitetoday.com/finance/2026/04/09/in-space-maneuverability-startup-portal-raises-series-a-as-it-shifts-into-production-mode"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Values company at ~$250M; follows a $17.5M seed round in 2025."
+  },
+  "sources": [
+    "https://www.satellitetoday.com/finance/2026/04/09/in-space-maneuverability-startup-portal-raises-series-a-as-it-shifts-into-production-mode",
+    "https://3dprint.com/325231/portal-space-systems-raises-50m-series-a-hits-250m-valuation/"
+  ],
+  "last_updated": "2026-11-18"
+}

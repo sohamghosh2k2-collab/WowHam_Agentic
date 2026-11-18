@@ -1,0 +1,36 @@
+{
+  "id": "thea-energy",
+  "name": "Thea Energy",
+  "website": "https://thea.energy",
+  "hq_country": "US",
+  "sector": "fusion & advanced energy",
+  "subsector": "stellarator fusion (planar coil magnets)",
+  "stage": "series-b",
+  "founded": 2022,
+  "one_liner": "Developing a 'pixelated' planar-magnet stellarator architecture aimed at scalable fusion power plants.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-05-01",
+      "round": "Series B",
+      "amount_usd": 100000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://thea.energy/press-release/thea-energy-raises-100-million-series-b-funding/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Total investor funding reported ~$130M since 2022 founding."
+  },
+  "sources": [
+    "https://thea.energy/press-release/thea-energy-raises-100-million-series-b-funding/",
+    "https://njbiz.com/thea-energy-100m-fusion-power-expansion/"
+  ],
+  "last_updated": "2026-11-18"
+}

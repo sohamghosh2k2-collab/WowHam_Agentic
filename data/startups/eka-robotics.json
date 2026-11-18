@@ -1,0 +1,54 @@
+{
+  "id": "eka-robotics",
+  "name": "Eka Robotics",
+  "website": null,
+  "hq_country": "US",
+  "sector": "robotics & autonomy",
+  "subsector": "vision-force-action foundation models for dexterous industrial robots",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Building a 'vision-force-action' foundation model giving industrial robots tactile dexterity, at a $1.45B valuation.",
+  "founders": [
+    {
+      "name": "Pulkit Agrawal",
+      "role": "Co-founder",
+      "background": "MIT professor",
+      "source": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    },
+    {
+      "name": "Tuomas Haarnoja",
+      "role": "Co-founder",
+      "background": "Former Google DeepMind researcher",
+      "source": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+    }
+  ],
+  "funding": [
+    {
+      "date": "2026-10-20",
+      "round": "Series A",
+      "amount_usd": 150000000,
+      "lead": "a16z and F-Prime (co-lead; one outlet instead names Fine Structure Ventures as co-lead with a16z)",
+      "investors": [
+        "a16z",
+        "F-Prime",
+        "Obvious Ventures",
+        "E14 Fund"
+      ],
+      "source": "https://aimagazine.com/news/what-is-eka-robotics-how-it-raised-us-150m-in-series-a"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Post-money valuation reported at $1.45B by multiple outlets. Investor/co-lead details vary slightly by outlet (a16z appears consistently as a lead)."
+  },
+  "sources": [
+    "https://aimagazine.com/news/what-is-eka-robotics-how-it-raised-us-150m-in-series-a",
+    "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+  ],
+  "last_updated": "2026-11-18"
+}

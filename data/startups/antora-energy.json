@@ -1,0 +1,36 @@
+{
+  "id": "antora-energy",
+  "name": "Antora Energy",
+  "website": null,
+  "hq_country": "US",
+  "sector": "batteries & energy storage",
+  "subsector": "thermal battery storage for industrial/data-center loads",
+  "stage": "series-c",
+  "founded": null,
+  "one_liner": "Makes thermal batteries that store renewable electricity as heat for industrial and data-center customers.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-08-03",
+      "round": "Series C",
+      "amount_usd": 550000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://pv-magazine-usa.com/2026/08/03/antora-raises-550-million-for-u-s-made-thermal-battery-storage"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": null
+  },
+  "sources": [
+    "https://pv-magazine-usa.com/2026/08/03/antora-raises-550-million-for-u-s-made-thermal-battery-storage",
+    "https://www.ess-news.com/2026/08/03/antora-raises-550-million-for-us-made-thermal-battery-storage/"
+  ],
+  "last_updated": "2026-11-18"
+}

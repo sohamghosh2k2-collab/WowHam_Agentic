@@ -1,0 +1,37 @@
+{
+  "id": "neurophos",
+  "name": "Neurophos",
+  "website": null,
+  "hq_country": "US",
+  "sector": "AI hardware & photonics",
+  "subsector": "photonic AI inference chips",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Austin-based startup building exaflop-scale photonic optical processing chips for AI inference.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-01-22",
+      "round": "Series A",
+      "amount_usd": 110000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [
+      "Planned 2027 pilot with Norwegian data center operator Terakraft"
+    ],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Oversubscribed round; total funding to date reported ~$118M."
+  },
+  "sources": [
+    "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing"
+  ],
+  "last_updated": "2026-11-18"
+}

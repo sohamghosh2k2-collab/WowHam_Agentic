@@ -1,0 +1,46 @@
+{
+  "id": "crew-carbon",
+  "name": "CREW Carbon",
+  "website": null,
+  "hq_country": "US",
+  "sector": "climate / carbon removal",
+  "subsector": "wastewater-treatment-integrated carbon dioxide removal",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "Integrates CO2 mineralization into wastewater treatment plants, with offtake deals via Frontier from JPMorgan, Google, Autodesk and Stripe.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-05-01",
+      "round": "Series A",
+      "amount_usd": 25000000,
+      "lead": "Burnt Island Ventures",
+      "investors": [
+        "Burnt Island Ventures",
+        "AP Ventures",
+        "Sony Innovation Fund",
+        "Builders Vision",
+        "Idemitsu Ventures"
+      ],
+      "source": "https://www.esgtoday.com/crew-carbon-raises-25-million-for-technology-combining-wastewater-treatment-carbon-removal/"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [
+      "~$6M of the round reported as grant/non-dilutive funding"
+    ],
+    "pilots": [
+      "Deployed at nearly 10 facilities across the US and Europe"
+    ],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Offtake agreements >$30M via Frontier (buyers incl. JPMorgan Chase, Google, Autodesk, Stripe). Sources conflict on HQ city (New Haven vs Brooklyn) and whether it is a Yale spinout -- not independently confirmed."
+  },
+  "sources": [
+    "https://www.esgtoday.com/crew-carbon-raises-25-million-for-technology-combining-wastewater-treatment-carbon-removal/",
+    "https://carbonherald.com/crew-carbon-secures-25m-to-scale-its-wastewater-treatment-optimization-technology/"
+  ],
+  "last_updated": "2026-11-18"
+}

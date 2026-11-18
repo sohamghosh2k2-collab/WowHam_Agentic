@@ -1,0 +1,35 @@
+{
+  "id": "humble-robotics",
+  "name": "Humble Robotics",
+  "website": null,
+  "hq_country": "US",
+  "sector": "robotics & autonomy",
+  "subsector": "autonomous electric hauling / freight",
+  "stage": "series-a",
+  "founded": null,
+  "one_liner": "California startup building unified autonomy for electric freight hauling, funded to $75M within a year of founding.",
+  "founders": [],
+  "funding": [
+    {
+      "date": "2026-11-09",
+      "round": "Series A",
+      "amount_usd": 51000000,
+      "lead": null,
+      "investors": [],
+      "source": "https://www.robotics247.com/article/autonomous-electric-hauling-company-humble-robotics-raises-51m-series-a"
+    }
+  ],
+  "signals": {
+    "trl": null,
+    "patents": null,
+    "gov_grants": [],
+    "pilots": [],
+    "headcount_trend": null,
+    "hiring_focus": [],
+    "notes": "Brings total funding to $75M; company reported as founded less than a year before this round (implies ~2025-2026 founding)."
+  },
+  "sources": [
+    "https://www.robotics247.com/article/autonomous-electric-hauling-company-humble-robotics-raises-51m-series-a"
+  ],
+  "last_updated": "2026-11-18"
+}
